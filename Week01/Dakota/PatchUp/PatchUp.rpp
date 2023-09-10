@@ -1,0 +1,1217 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1694320973
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 11.5
+  ZOOM 278.86532047290092 2892 0
+  VZOOMEX 1.875 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN PatchUp
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 10.5 10.5
+  SELECTION2 10.5 10.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {F9CEE995-2F7C-42E1-943D-8F29196170F4}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {483E985D-043D-4873-A2CD-5D810F43C5DE}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {0D33D9B3-528C-49C1-A7E8-44E6FFEAC957}
+    NAME SDS_TechTime_Wk01_DailyRender_0909
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.8781896667659 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0D33D9B3-528C-49C1-A7E8-44E6FFEAC957}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD938F03-8353-4AA8-9B46-04753E587614}
+      IID 1
+      NAME SDS_TechTime_Wk01_DailyRender_0909.wav
+      VOLPAN 1 0 1.000092 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {513EB25F-5B9F-4B80-AFC0-2975363BC6D0}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\Downloads\SDS_TechTime_Wk01_DailyRender_0909.wav"
+      >
+    >
+  >
+  <TRACK {24E199F8-7F45-4191-B25F-162223ED5BEC}
+    NAME Gore
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {24E199F8-7F45-4191-B25F-162223ED5BEC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {CFF5C233-1765-44F0-B873-E1843D7EC55A}
+    NAME "Bone Cracks"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.15719488805197 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CFF5C233-1765-44F0-B873-E1843D7EC55A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.02237007924205
+      SNAPOFFS 0
+      LENGTH 0.59678026054526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.099463 0 1 0 0 0
+      FADEOUT 1 0.106568 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD3D46D6-E317-47F8-A5D1-7683B5814910}
+      IID 70
+      NAME "GOREFlsh_Bone Cracks_PSE_OS_IeQMy.wav"
+      VOLPAN 1 0 1.293269 -1
+      SOFFS 0.29128560330928
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7F4B5D4-144C-4E3A-A00D-FB91B5C422CE}
+      <SOURCE SECTION
+        LENGTH 1.44640417890956
+        STARTPOS 66.98659353574926
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\GOREFlsh_Bone Cracks_PSE_OS_IeQMy.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 13.69882101146112
+      SNAPOFFS 0
+      LENGTH 1.04977943279729
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90BF10A4-C954-4765-A9DA-CC13C6652C01}
+      IID 71
+      NAME "GOREFlsh_Bone Cracks_PSE_OS_IeQMy.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.6678255296578
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {181F4B2C-FFF7-4AEE-B452-5EAF1FA815DF}
+      <SOURCE SECTION
+        LENGTH 1.71760496245511
+        STARTPOS 85.15704603330069
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\GOREFlsh_Bone Cracks_PSE_OS_IeQMy.wav"
+        >
+      >
+    >
+  >
+  <TRACK {87245752-AC75-463E-9D01-886108A4552E}
+    NAME NoodlesGore
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.45200257988019 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {87245752-AC75-463E-9D01-886108A4552E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.02237007924205
+      SNAPOFFS 0
+      LENGTH 0.64651194892404
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.234449 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFFBB905-DF38-400C-87E2-793E8D5EAB21}
+      IID 72
+      NAME "FOLEY, GORE, NOODLES, SAUCE, STIR.wav"
+      VOLPAN 1 0 2.387825 -1
+      SOFFS 0.91651187257403
+      PLAYRATE 0.62996052494744 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A572E432-D19E-474E-8B08-1D4D3F4E0E3E}
+      <SOURCE SECTION
+        LENGTH 8.94352395610546
+        STARTPOS 2.10037305029749
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\FOLEY, GORE, NOODLES, SAUCE, STIR.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 13.73239024117624
+      SNAPOFFS 0
+      LENGTH 0.61615048023495
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 2 0.484105 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {16D90F25-96DA-4488-B67F-8541156D9FC3}
+      IID 72
+      NAME "FOLEY, GORE, NOODLES, SAUCE, STIR.wav"
+      VOLPAN 1 0 2.789838 -1
+      SOFFS 3.71617974240445
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46CC7716-3B07-4F24-A842-C73F1CE2A67F}
+      <SOURCE SECTION
+        LENGTH 8.94352395610546
+        STARTPOS 2.10037305029749
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\FOLEY, GORE, NOODLES, SAUCE, STIR.wav"
+        >
+      >
+    >
+  >
+  <TRACK {C79EA934-2F88-49D4-9F1F-E2923891DC37}
+    NAME "Dentist Drill"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.10462494415929 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C79EA934-2F88-49D4-9F1F-E2923891DC37}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.99145294219826
+      SNAPOFFS 0
+      LENGTH 0.62839018838273
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.090007 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.183875 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6347C8E-46A7-4C47-9B89-214E6E074CB2}
+      IID 58
+      NAME "TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      VOLPAN 0.850746 0 3.743991 -1
+      SOFFS 11.853311225586
+      PLAYRATE 1.33483985417003 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {4B539628-D738-46CA-B42C-3766AC7AF985}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.43596839134884
+      SNAPOFFS 0
+      LENGTH 0.30410351158375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.183875 1 1 0 0
+      FADEOUT 1.1 0.01 0.064547 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B21F5D78-6CDA-4236-8234-B40F868B7CDE}
+      IID 58
+      NAME "TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      VOLPAN 0.955224 0 3.548342 -1
+      SOFFS 21.81955508227919
+      PLAYRATE 1.33483985417003 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {FDE0FFF7-38F0-4FEF-8735-E5855D09D13A}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.67552461548405
+      SNAPOFFS 0
+      LENGTH 0.47243652218881
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.064547 1 1 0 0
+      FADEOUT 1.1 0.01 0.145957 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6F502D2-5BDC-442F-B68F-F45CD2FE6C91}
+      IID 58
+      NAME "TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      VOLPAN 1 0 5.076801 -1
+      SOFFS 24.59489259286927
+      PLAYRATE 1.49830707687668 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {970B2B82-1F38-4DAB-B41C-C1C38442FE38}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.00200426377552
+      SNAPOFFS 0
+      LENGTH 0.7894486784227
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.145957 1 1 0 0
+      FADEOUT 0 0.51 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A28E6D3E-74AF-41E5-98F2-0630D0CD6E09}
+      IID 58
+      NAME "TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      VOLPAN 1 0 3.548342 -1
+      SOFFS 30.31814188808542
+      PLAYRATE 1.33483985417003 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {5B93132D-4A59-43D0-A3C7-416A5A767B88}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\TOOLPowr_Electric Drill Action_PSE_OS_sxAQP.wav"
+      >
+    >
+  >
+  <TRACK {E2D1C77C-091F-4700-B571-858A688AE407}
+    NAME "Impact Drill"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.33765100216238 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E2D1C77C-091F-4700-B571-858A688AE407}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.04145294219821
+      SNAPOFFS 0
+      LENGTH 0.17814495980333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.028688 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B2438F6-4C73-4234-B91E-07EAD6C26B72}
+      IID 56
+      NAME ImpactDrillTightenScrew_BW.19754.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25992104989487 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {E3DA12A1-355D-4508-AFDA-81BA9DDCB364}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\ImpactDrillTightenScrew_BW.19754.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.19091021869107
+      SNAPOFFS 0
+      LENGTH 0.32125064380596
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.028688 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {11BB6F99-E97A-4F4D-BCA7-F7D2D42B6CBE}
+      IID 56
+      NAME ImpactDrillTightenScrew_BW.19754.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.34255952036069
+      PLAYRATE 1.25992104989487 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {4AFA61EA-6FBD-4DA0-BCF7-1C3A6BCC6058}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\ImpactDrillTightenScrew_BW.19754.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.71574430558317
+      SNAPOFFS 0
+      LENGTH 0.60956200395579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43B1C23B-8090-44EE-98EA-6ED78B85559A}
+      IID 57
+      NAME ImpactDrillTightenScrew_BW.19755.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25992104989487 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {B741F283-DBD1-4ED5-AE21-1000DF0B2CB4}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Documents\Repos\SDS-2023-Sept\Week01\Dakota\DakotaWeek01Sketch\ImpactDrillTightenScrew_BW.19755.wav"
+      >
+    >
+  >
+  <TRACK {2FBA8EDC-A6D2-42F1-B411-28C8209B1246}
+    NAME GOREStab_Flesh-Ripping-Chewing-Cantaloupe-Meattenderizer-01_TP_NONE_MKH416-INT-09242020
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.49560800622437 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2FBA8EDC-A6D2-42F1-B411-28C8209B1246}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.09767524793203
+      SNAPOFFS 0
+      LENGTH 0.32273643724282
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61B572B2-8510-47CD-945A-3D76B9B0A889}
+      IID 149
+      NAME GOREStab_Flesh-Ripping-Chewing-Cantaloupe-Meattenderizer-01_TP_NONE_MKH416-INT-09242020.wav
+      VOLPAN 1 0 2.817568 -1
+      SOFFS 0.13268053531094
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C84FD09-BF43-420B-88D7-51C0444D2BE8}
+      <SOURCE SECTION
+        LENGTH 1.24026167156383
+        STARTPOS 13.30462520404832
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\PersonalSoundLibrary\Gore\GOREStab_Flesh-Ripping-Chewing-Cantaloupe-Meattenderizer-01_TP_NONE_MKH416-INT-09242020.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 13.7574919640729
+      SNAPOFFS 0
+      LENGTH 0.73822721363054
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {902B3048-D31F-49B1-B13F-2193393E4E43}
+      IID 149
+      NAME GOREStab_Flesh-Ripping-Chewing-Cantaloupe-Meattenderizer-01_TP_NONE_MKH416-INT-09242020.wav
+      VOLPAN 1 0 2.190737 -1
+      SOFFS 0.50203445793327
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F66B439-9C98-4754-BC14-2CFE09D73905}
+      <SOURCE SECTION
+        LENGTH 1.24026167156383
+        STARTPOS 13.30462520404832
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\PersonalSoundLibrary\Gore\GOREStab_Flesh-Ripping-Chewing-Cantaloupe-Meattenderizer-01_TP_NONE_MKH416-INT-09242020.wav"
+        >
+      >
+    >
+  >
+  <TRACK {1512DC34-7B1D-48F7-AAD1-21D1117287CA}
+    NAME "Small Vibrating Saw - On Off Close [Dynamic Mono]"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35711625543901 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1512DC34-7B1D-48F7-AAD1-21D1117287CA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.91637404371333
+      SNAPOFFS 0
+      LENGTH 1.49271051538936
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.170509 0 2 0 1 1
+      FADEOUT 1.1 0.01 0.149195 2 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {837E4545-FA77-4B36-82E6-33DB0E66E1FA}
+      IID 153
+      NAME "CT_07_Carpenter_Tool_Small_Circular Saw_Sawing_XY_(192_24).wav"
+      VOLPAN 1 0 1.782813 -1
+      SOFFS 4.17609372029446
+      PLAYRATE 0.89089871814034 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {B0E1D378-F67F-4C96-9306-6869D03CF00D}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\GDC Bundles\Sonniss.com - GDC 2018 - Game Audio Bundle Part 8of8\West Wolf - Carpenter's Tools\CT_07_Carpenter_Tool_Small_Circular Saw_Sawing_XY_(192_24).wav"
+      >
+    >
+    <ITEM
+      POSITION 14.25988949396636
+      SNAPOFFS 0
+      LENGTH 0.72593095768854
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.149195 2 1 0 0
+      FADEOUT 0 0.476003 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3FC89EB7-BEAD-4F51-B734-DC2BE74CA861}
+      IID 153
+      NAME "CT_07_Carpenter_Tool_Small_Circular Saw_Sawing_XY_(192_24).wav"
+      VOLPAN 0.965517 0 11.9548 -1
+      SOFFS 9.98084324519737
+      PLAYRATE 0.89089871814034 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {22FCA8A6-6B25-49B4-B7E5-64BBAE55D06A}
+      <SOURCE WAVE
+        FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\GDC Bundles\Sonniss.com - GDC 2018 - Game Audio Bundle Part 8of8\West Wolf - Carpenter's Tools\CT_07_Carpenter_Tool_Small_Circular Saw_Sawing_XY_(192_24).wav"
+      >
+    >
+  >
+  <TRACK {A517215D-BD97-4C7A-8496-7B04F6B36434}
+    NAME "VEHAntq_1940 Ford Car_PSE_OS_saw7O"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.49560800622437 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A517215D-BD97-4C7A-8496-7B04F6B36434}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 873 119 736 461
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 12.75692368109861
+      SNAPOFFS 0
+      LENGTH 0.44583966459542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.193622 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B6CD8E5-9B5E-4BBD-A998-0809274B29CF}
+      IID 155
+      NAME "VEHAntq_1940 Ford Car_PSE_OS_saw7O.wav"
+      VOLPAN 1 0 3.555086 -1
+      SOFFS 0.15629959199278
+      PLAYRATE 1.12246204830937 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62C2A026-332B-4B5F-A811-33356831DFAF}
+      <SOURCE SECTION
+        LENGTH 2.07815083251714
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Vehicles\Antique\VEHAntq_1940 Ford Car_PSE_OS_saw7O.wav"
+        >
+      >
+    >
+  >
+  <TRACK {D6781303-C816-422D-91D1-4D68572ECFFF}
+    NAME "TOOLPowr_Power Tool_PSE_OS_iLqom"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.193839147853 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D6781303-C816-422D-91D1-4D68572ECFFF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.15179608264028
+      SNAPOFFS 0
+      LENGTH 1.83402436901462
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.267435 0 1 0 0 0
+      FADEOUT 0 0.34 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F0BAEC3-C2EA-4273-B8ED-C3BBAE2265CC}
+      IID 157
+      NAME "TOOLPowr_Power Tool_PSE_OS_iLqom.wav"
+      VOLPAN 1 0 4.972692 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B52FB59C-A2BE-4D98-A0D9-DCC1D8B02E3E}
+      <SOURCE SECTION
+        LENGTH 1.99735161606268
+        STARTPOS 9.70142213516161
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Tools\Power\TOOLPowr_Power Tool_PSE_OS_iLqom.wav"
+        >
+      >
+    >
+  >
+  <TRACK {3B1C10AE-6B8C-4317-9281-7C4F2B841504}
+    NAME "COMCam_Camera Film Load 02_PSE_OS_Fxzau"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.09119472733764 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3B1C10AE-6B8C-4317-9281-7C4F2B841504}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.00403207951723
+      SNAPOFFS 0
+      LENGTH 0.56557946022961
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.040762 0 1 0 0 0
+      FADEOUT 1 0.056048 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {830D26AD-14E3-4FA6-813C-87DB9F7AA928}
+      IID 159
+      NAME "COMStatic_Electricity Static_PSE_OS_MeutW.wav"
+      VOLPAN 1 0 3.733915 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C840E5B-D535-4A0A-969B-BEA14177332B}
+      <SOURCE SECTION
+        LENGTH 0.58775318315377
+        STARTPOS 5.69192556317336
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Communications\Static\COMStatic_Electricity Static_PSE_OS_MeutW.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 13.73775678467997
+      SNAPOFFS 0
+      LENGTH 0.58338290339247
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.066209 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {342D6803-D619-4383-B480-0BC63E0511D2}
+      IID 160
+      NAME "COMStatic_Electricity Static_PSE_OS_MeutW.wav"
+      VOLPAN 1 0 3.66617 -1
+      SOFFS 0.06623903588275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC1BD08B-6D94-4E17-B875-20269D9C5CE7}
+      <SOURCE SECTION
+        LENGTH 0.64962193927522
+        STARTPOS 13.6111263467189
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Communications\Static\COMStatic_Electricity Static_PSE_OS_MeutW.wav"
+        >
+      >
+    >
+  >
+  <TRACK {F25FE162-03E7-48F3-8064-782CD70E307D}
+    NAME "COMType_Demon Typewriter_PSE_OS_SmshQ"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.53870426954974 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F25FE162-03E7-48F3-8064-782CD70E307D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.02829428638839
+      SNAPOFFS 0
+      LENGTH 0.293218138872
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.02715 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD21AEAC-6775-40B8-A5CF-45DDBFDEAE4D}
+      IID 161
+      NAME "COMType_Demon Typewriter_PSE_OS_SmshQ.wav"
+      VOLPAN 1 0 1.991315 -1
+      SOFFS 0.07416926914573
+      PLAYRATE 0.7937005259841 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7312436B-B70F-4C67-9058-9E0D82D42A78}
+      <SOURCE SECTION
+        LENGTH 1.25006856023506
+        STARTPOS 14.63969180541952
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Communications\Typewriter\COMType_Demon Typewriter_PSE_OS_SmshQ.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12.29436259758706
+      SNAPOFFS 0
+      LENGTH 0.29864810440666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.02715 1 1 0 0
+      FADEOUT 1.1 0.01 0.03982 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D2CA056-04BF-45C0-A455-771FA259F386}
+      IID 161
+      NAME "COMType_Demon Typewriter_PSE_OS_SmshQ.wav"
+      VOLPAN 1 0 2.057784 -1
+      SOFFS 0.56010597177208
+      PLAYRATE 0.84089641525371 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10E88820-46B1-40F7-B070-8E3E28988F62}
+      <SOURCE SECTION
+        LENGTH 1.25006856023506
+        STARTPOS 14.63969180541952
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Communications\Typewriter\COMType_Demon Typewriter_PSE_OS_SmshQ.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12.5531909547395
+      SNAPOFFS 0
+      LENGTH 0.41354998336449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.03982 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DBB1F74-A877-4C66-A645-B857912134D4}
+      IID 161
+      NAME "COMType_Demon Typewriter_PSE_OS_SmshQ.wav"
+      VOLPAN 1 0 2.021692 -1
+      SOFFS 0.94025612687644
+      PLAYRATE 0.74915353843834 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5C48DD4-AC33-45F4-AF17-74D5CBD98299}
+      <SOURCE SECTION
+        LENGTH 1.25006856023506
+        STARTPOS 14.63969180541952
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Communications\Typewriter\COMType_Demon Typewriter_PSE_OS_SmshQ.wav"
+        >
+      >
+    >
+  >
+  <TRACK {7EF0F22E-C6C9-4719-A4DC-09F8DFC7F6AD}
+    NAME "TOOLHand_Air Stapler Gun_PSE_OS_KHVtg"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.28121547955842 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7EF0F22E-C6C9-4719-A4DC-09F8DFC7F6AD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.02778584399061
+      SNAPOFFS 0
+      LENGTH 0.39276750700756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02534 0 1 0 0 0
+      FADEOUT 1 0.118298 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {815729F6-4FF4-4CE8-86C5-CFADEC888ABE}
+      IID 162
+      NAME "TOOLHand_Air Stapler Gun_PSE_OS_KHVtg.wav"
+      VOLPAN 1 0 1.481735 -1
+      SOFFS 0.11981041199559
+      PLAYRATE 0.70710678118655 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {D967CC12-26B5-4AEA-BD7F-9BD11D13F123}
+      <SOURCE SECTION
+        LENGTH 5.33563173359452
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Tools\Hand\TOOLHand_Air Stapler Gun_PSE_OS_KHVtg.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12.51196854079908
+      SNAPOFFS 0
+      LENGTH 0.40000746105379
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02534 0 1 0 0 0
+      FADEOUT 1 0.085069 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABAF765A-3DB7-49D3-BB15-17B7F0209103}
+      IID 162
+      NAME "TOOLHand_Air Stapler Gun_PSE_OS_KHVtg.wav"
+      VOLPAN 1 0 1.821204 -1
+      SOFFS 2.48569962233236
+      PLAYRATE 0.70710678118655 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {6840E900-9390-4BE5-BF13-0FB7BB3CF44F}
+      <SOURCE SECTION
+        LENGTH 5.33563173359452
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Tools\Hand\TOOLHand_Air Stapler Gun_PSE_OS_KHVtg.wav"
+        >
+      >
+    >
+  >
+  <TRACK {8D369DD6-A8C1-45B6-8783-2D6079AA3A37}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.28121547955842 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8D369DD6-A8C1-45B6-8783-2D6079AA3A37}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.25545717869062
+      SNAPOFFS 0
+      LENGTH 0.37285763338045
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.114968 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35CD6B27-A4E1-4151-A576-77B95D4510EA}
+      IID 162
+      NAME "TOOLHand_Air Stapler Gun_PSE_OS_KHVtg.wav"
+      VOLPAN 1 0 1.331621 -1
+      SOFFS 1.33577893925835
+      PLAYRATE 0.70710678118655 0 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {F9FC012F-0EF7-4381-85AE-07F46BB84014}
+      <SOURCE SECTION
+        LENGTH 5.33563173359452
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Tools\Hand\TOOLHand_Air Stapler Gun_PSE_OS_KHVtg.wav"
+        >
+      >
+    >
+  >
+  <TRACK {A00B4CDF-6FC1-4353-B1CE-A2C3231D9D17}
+    NAME "GLASImpt_Glass Splat_PSE_OS_fAeJq"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.09598076805116 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A00B4CDF-6FC1-4353-B1CE-A2C3231D9D17}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.06222962424934
+      SNAPOFFS 0
+      LENGTH 0.39743421529648
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.173241 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {731E42B7-A416-4192-B89B-3D614338471D}
+      IID 169
+      NAME "GLASImpt_Glass Splat_PSE_OS_fAeJq.wav"
+      VOLPAN 1 0 1.341396 -1
+      SOFFS 0
+      PLAYRATE 0.52973154717965 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50F9A0C9-B47F-44A2-B3C1-CC4841F29E81}
+      <SOURCE SECTION
+        LENGTH 2.23838067254326
+        STARTPOS 0.13491609533137
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Glass\Impact\GLASImpt_Glass Splat_PSE_OS_fAeJq.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12.59140578313339
+      SNAPOFFS 0
+      LENGTH 0.56216849292546
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {682D5AB2-934B-4003-B038-A4FBD1EF50A4}
+      IID 169
+      NAME "GLASImpt_Glass Splat_PSE_OS_fAeJq.wav"
+      VOLPAN 1 0 1.423778 -1
+      SOFFS 1.87764405790946
+      PLAYRATE 0.52973154717965 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24E4FF0E-DC6D-400D-B561-6A0B92C7FF8F}
+      <SOURCE SECTION
+        LENGTH 2.23838067254326
+        STARTPOS 0.13491609533137
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Glass\Impact\GLASImpt_Glass Splat_PSE_OS_fAeJq.wav"
+        >
+      >
+    >
+  >
+  <TRACK {D4DBE266-7FA5-4689-A497-256619CDA9BE}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.09598076805116 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D4DBE266-7FA5-4689-A497-256619CDA9BE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.30964852894462
+      SNAPOFFS 0
+      LENGTH 0.51452709521991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92104616-38BD-434B-BD10-A1F743F93E78}
+      IID 169
+      NAME "GLASImpt_Glass Splat_PSE_OS_fAeJq.wav"
+      VOLPAN 1 0 1.40997 -1
+      SOFFS 0.98929633157357
+      PLAYRATE 0.52973154717965 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC77342D-84AA-4681-AF77-B336149AF4B6}
+      <SOURCE SECTION
+        LENGTH 2.23838067254326
+        STARTPOS 0.13491609533137
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\estes\OneDrive\Desktop\Sound Library\SFX\ProSoundDownloads\Pro Sound Effects\The Odyssey Collection - Starter\Glass\Impact\GLASImpt_Glass Splat_PSE_OS_fAeJq.wav"
+        >
+      >
+    >
+  >
+>
